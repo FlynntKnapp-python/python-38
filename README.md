@@ -16,4 +16,3 @@
 
 * `pipenv --python C:\Users\FlynntKnapp\AppData\Local\Programs\Python\Python38\python.exe`
     * NOTE: Need to specify the path to the `python.exe` file in order for the virtual environment to be created with the correct version of Python. I think pipenv actually copies a version of the `python.exe` file into the virtual environment folder... Maybe?
-# python-38
