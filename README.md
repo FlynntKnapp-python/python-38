@@ -4,6 +4,8 @@
 
 * <https://www.python.org/downloads/release/python-3810/>
 
+![image](https://github.com/FlynntKnapp-python/python-38/assets/47562501/d32e4ba7-cd41-4aab-8700-8e2e08736fe6)
+
 ## Reminders
 
 * Don't add the new `python.exe` to the `PATH` variable. Only keep the primary Python installation in the `PATH` variable.
