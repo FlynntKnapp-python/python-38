@@ -4,7 +4,15 @@
 
 * <https://www.python.org/downloads/release/python-3810/>
 
-![image](https://github.com/FlynntKnapp-python/python-38/assets/47562501/d32e4ba7-cd41-4aab-8700-8e2e08736fe6)
+   ![image](https://github.com/FlynntKnapp-python/python-38/assets/47562501/d32e4ba7-cd41-4aab-8700-8e2e08736fe6)
+
+* Installation Options
+
+   ![image](https://github.com/FlynntKnapp-python/python-38/assets/47562501/b257b0ac-e17c-4bf0-8415-d7fbc5a23117)
+
+* Installation Location
+
+   ![image](https://github.com/FlynntKnapp-python/python-38/assets/47562501/1bea47d4-fee0-433e-a8e2-990b4670fd2c)
 
 ## Reminders
 
